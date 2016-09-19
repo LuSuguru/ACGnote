@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="array_left_menu">
+        <item>预定手办</item>
+        <item>预定轻小说</item>
+        <item>其他周边</item>
+    </string-array>
+
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+</resources>

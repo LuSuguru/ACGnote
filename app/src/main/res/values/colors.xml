@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF82AB</color>
+    <color name="colorPrimaryDark">#FF82AB</color>
+    <color name="colorAccent">#FF69B4</color>
+    <color name="state_menu_item_selected">#aaFF82AB</color>
+</resources>
